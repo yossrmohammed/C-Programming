@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1698061683 source:e:\iti 9 months\c programming\projects\lab5\lab5q1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<conio.h>
+	"standerd_def.h"
+
+1698061597 source:e:\iti 9 months\c programming\projects\lab5\lab5q1\functions.c
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<conio.h>
+	"standerd_def.h"
+
+1698059358 e:\iti 9 months\c programming\projects\lab5\lab5q1\standerd_def.h
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<conio.h>
+
