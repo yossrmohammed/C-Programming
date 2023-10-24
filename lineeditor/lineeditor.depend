@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1698190805 source:e:\iti 9 months\c programming\projects\lab6\lineeditor\functions.c
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<conio.h>
+	"definition.h"
+
+1698190765 source:e:\iti 9 months\c programming\projects\lab6\lineeditor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"definition.h"
+
+1698190683 e:\iti 9 months\c programming\projects\lab6\lineeditor\definition.h
+
