@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1698295550 source:e:\iti 9 months\c programming\projects\lab6\newlineeditor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<conio.h>
+
